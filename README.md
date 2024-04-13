@@ -25,8 +25,10 @@ python run_openvino_demo.py
 ```
 
 ## Build EXE with CX Freeze 
-`python setup.py build_exe`
+```
+python setup.py build_exe
+```
 
-NOTE: Make sure to include required files like OpenVINO IR by listing the setup.py file. 
+**NOTE:** Make sure to include required files like OpenVINO IR by listing the setup.py file. 
 
 See how to run the EXE demo here: https://gist.github.com/ryanloney#ai-pc-easy-button-demo 
