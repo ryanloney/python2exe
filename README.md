@@ -29,6 +29,17 @@ python run_openvino_demo.py
 python setup.py build_exe
 ```
 
-**NOTE:** Make sure to include required files like OpenVINO IR by listing the setup.py file. 
+## Test Windows Executable 
+#### After the build is complete, you will see a directory called `build` inside the `python2exe` directory: 
+![image](https://github.com/ryanloney/python2exe/assets/15709723/be6d797f-97a4-4917-b5ae-339203219f3e)
 
-See how to run the EXE demo here: https://gist.github.com/ryanloney#ai-pc-easy-button-demo 
+
+#### Open the `build` directory, then open `exe.win-amd64-3.11` (directory name may change based on your Python version): 
+![image](https://github.com/ryanloney/python2exe/assets/15709723/a78082b1-75f2-448c-a5d5-2bcd59aa58be)
+
+
+#### Double-click `run_openvino_demo.exe`: 
+![image](https://github.com/ryanloney/python2exe/assets/15709723/dc797721-06f3-4d41-978e-1393f36ae2a9)
+
+
+*See how to run a pre-built EXE demo here:* https://gist.github.com/ryanloney#ai-pc-easy-button-demo 
