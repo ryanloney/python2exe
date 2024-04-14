@@ -42,4 +42,4 @@ python setup.py build_exe
 ![image](https://github.com/ryanloney/python2exe/assets/15709723/dc797721-06f3-4d41-978e-1393f36ae2a9)
 
 
-*See how to run a pre-built EXE demo here:* https://gist.github.com/ryanloney#ai-pc-easy-button-demo 
+*See how to run a pre-built EXE demo here:* https://gist.github.com/ryanloney/412b27e1f4ef6cb40c2cc138703fcef5 
